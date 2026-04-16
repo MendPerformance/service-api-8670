@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-api-8670
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/service-api-8670
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
